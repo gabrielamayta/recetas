@@ -1,2 +1,2 @@
 # recetas
-reposicion de recetas para practicar gt
+reposicion de recetas para practicar git
