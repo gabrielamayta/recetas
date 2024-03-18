@@ -1,2 +1,2 @@
-# recetas
-reposicion de recetas para practicar git
+# recetas 
+reposicion de recetas para practicar git 5b
